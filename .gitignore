@@ -1,0 +1,7 @@
+.vscode/settings.json
+.pylintrc
+/build
+/dist
+/__pycache__
+main.spec
+yys-demo.zip
